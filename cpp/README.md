@@ -4,7 +4,7 @@ This folder contains solutions to coding problems implemented in C++.
 
 📝 List of Problems
 
-Key Concepts: Conditional Statements, Basic I/O, Arithmetic Operations, String Manipulation, Time Adjustment
+1_Key Concepts: Conditional Statements, Basic I/O, Arithmetic Operations, String Manipulation, Time Adjustment
 - compare_numbers.cpp
 - hello_world.cpp
 - alarm_clock.cpp
