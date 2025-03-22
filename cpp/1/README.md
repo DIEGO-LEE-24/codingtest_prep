@@ -92,16 +92,3 @@ int main() {
     return 0;
 }
 ```
-
-## How to Run the Code
-1. Install a C++ compiler (e.g., GCC, Clang, MSVC)
-2. Copy and paste the code into a `.cpp` file
-3. Compile and run the program:
-   ```sh
-   g++ filename.cpp -o output
-   ./output
-   ```
-
-## Resources
-- [C++ Reference](https://cplusplus.com/)
-- [STL Documentation](https://en.cppreference.com/w/)
