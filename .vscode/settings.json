@@ -4,6 +4,7 @@
         "vector": "cpp",
         "string": "cpp",
         "cstring": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "xiosbase": "cpp"
     }
 }
